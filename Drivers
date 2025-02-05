@@ -1,0 +1,184 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Laurens Vanthoor",
+      "description": "Belgische coureur en voormalig GT-wereldkampioen, nu actief in WEC Hypercar.",
+      "age": 32,
+      "active": true,
+      "birthdate": "1991-05-08",
+      "image": "https://example.com/images/laurens_vanthoor.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Cycling", "Gaming"],
+      "team": {
+        "id": 204,
+        "name": "Porsche Penske Motorsport",
+        "founded": 2023,
+        "active": true,
+        "image": "https://example.com/images/porsche_penske.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Kevin Estre",
+      "description": "Franse endurance specialist en Porsche-fabriekscoureur, bekend om zijn agressieve stijl.",
+      "age": 35,
+      "active": true,
+      "birthdate": "1988-10-28",
+      "image": "https://example.com/images/kevin_estre.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Sim Racing", "Wielrennen"],
+      "team": {
+        "id": 204,
+        "name": "Porsche Penske Motorsport",
+        "founded": 2023,
+        "active": true,
+        "image": "https://example.com/images/porsche_penske.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dries Vanthoor",
+      "description": "Belgisch talent en jonge ster in endurance racing, nu actief voor BMW.",
+      "age": 25,
+      "active": true,
+      "birthdate": "1998-04-20",
+      "image": "https://example.com/images/dries_vanthoor.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Sim Racing", "Fitness"],
+      "team": {
+        "id": 205,
+        "name": "BMW M Team WRT",
+        "founded": 2023,
+        "active": true,
+        "image": "https://example.com/images/bmw_wrt.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Raffaele Marciello",
+      "description": "Italiaanse coureur met een indrukwekkende GT3-geschiedenis, nu in Hypercar.",
+      "age": 29,
+      "active": true,
+      "birthdate": "1994-12-17",
+      "image": "https://example.com/images/raffaele_marciello.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Karten", "Reizen"],
+      "team": {
+        "id": 202,
+        "name": "Ferrari AF Corse",
+        "founded": 2023,
+        "active": true,
+        "image": "https://example.com/images/ferrari_af_corse.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Kamui Kobayashi",
+      "description": "Japanse Le Mans-winnaar en teambaas bij Toyota Gazoo Racing.",
+      "age": 37,
+      "active": true,
+      "birthdate": "1986-09-13",
+      "image": "https://example.com/images/kamui_kobayashi.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Karten", "Sim Racing"],
+      "team": {
+        "id": 201,
+        "name": "Toyota Gazoo Racing",
+        "founded": 2012,
+        "active": true,
+        "image": "https://example.com/images/toyota_gazoo.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mike Conway",
+      "description": "Britse endurance specialist en Le Mans-winnaar, rijdend voor Toyota.",
+      "age": 40,
+      "active": true,
+      "birthdate": "1983-08-19",
+      "image": "https://example.com/images/mike_conway.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Fietsen", "Sim Racing"],
+      "team": {
+        "id": 201,
+        "name": "Toyota Gazoo Racing",
+        "founded": 2012,
+        "active": true,
+        "image": "https://example.com/images/toyota_gazoo.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Antonio Fuoco",
+      "description": "Italiaanse Ferrari-fabriekscoureur en voormalig Formule 2-racer.",
+      "age": 27,
+      "active": true,
+      "birthdate": "1996-05-20",
+      "image": "https://example.com/images/antonio_fuoco.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Koken", "Fietsen"],
+      "team": {
+        "id": 202,
+        "name": "Ferrari AF Corse",
+        "founded": 2023,
+        "active": true,
+        "image": "https://example.com/images/ferrari_af_corse.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicklas Nielsen",
+      "description": "Deense coureur en Ferrari-fabrieksrijder met meerdere kampioenschapstitels.",
+      "age": 27,
+      "active": true,
+      "birthdate": "1997-02-06",
+      "image": "https://example.com/images/nicklas_nielsen.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Karten", "Reizen"],
+      "team": {
+        "id": 202,
+        "name": "Ferrari AF Corse",
+        "founded": 2023,
+        "active": true,
+        "image": "https://example.com/images/ferrari_af_corse.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Loïc Duval",
+      "description": "Franse Le Mans-winnaar en voormalig DTM-coureur, nu actief in WEC.",
+      "age": 41,
+      "active": true,
+      "birthdate": "1982-06-12",
+      "image": "https://example.com/images/loic_duval.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Golf", "Sim Racing"],
+      "team": {
+        "id": 206,
+        "name": "Peugeot TotalEnergies",
+        "founded": 2022,
+        "active": true,
+        "image": "https://example.com/images/peugeot_total.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Stoffel Vandoorne",
+      "description": "Belgische coureur en voormalig Formule E-kampioen, nu actief in endurance racing.",
+      "age": 31,
+      "active": true,
+      "birthdate": "1992-03-26",
+      "image": "https://example.com/images/stoffel_vandoorne.jpg",
+      "category": "Hypercar",
+      "hobbies": ["Fietsen", "Sim Racing"],
+      "team": {
+        "id": 206,
+        "name": "Peugeot TotalEnergies",
+        "founded": 2022,
+        "active": true,
+        "image": "https://example.com/images/peugeot_total.jpg"
+      }
+    }
+  ]
+}
