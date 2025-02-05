@@ -1,0 +1,39 @@
+{
+  "teams": [
+    {
+      "id": 201,
+      "name": "Toyota Gazoo Racing",
+      "founded": 2012,
+      "active": true,
+      "image": "https://example.com/images/toyota_gazoo.jpg"
+    },
+    {
+      "id": 202,
+      "name": "Ferrari AF Corse",
+      "founded": 2023,
+      "active": true,
+      "image": "https://example.com/images/ferrari_af_corse.jpg"
+    },
+    {
+      "id": 204,
+      "name": "Porsche Penske Motorsport",
+      "founded": 2023,
+      "active": true,
+      "image": "https://example.com/images/porsche_penske.jpg"
+    },
+    {
+      "id": 205,
+      "name": "BMW M Team WRT",
+      "founded": 2023,
+      "active": true,
+      "image": "https://example.com/images/bmw_wrt.jpg"
+    },
+    {
+      "id": 206,
+      "name": "Peugeot TotalEnergies",
+      "founded": 2022,
+      "active": true,
+      "image": "https://example.com/images/peugeot_total.jpg"
+    }
+]
+}
