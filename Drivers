@@ -79,7 +79,7 @@
       "age": 37,
       "active": true,
       "birthdate": "1986-09-13",
-      "image": "https://example.com/images/kamui_kobayashi.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Kamui%20Kobayashi.webp",
       "category": "Hypercar",
       "hobbies": ["Karten", "Sim Racing"],
       "team": {
@@ -87,7 +87,7 @@
         "name": "Toyota Gazoo Racing",
         "founded": 2012,
         "active": true,
-        "image": "https://example.com/images/toyota_gazoo.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/TGR.webp"
       }
     },
     {
@@ -97,7 +97,7 @@
       "age": 40,
       "active": true,
       "birthdate": "1983-08-19",
-      "image": "https://example.com/images/mike_conway.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Mike%20Conway.webp",
       "category": "Hypercar",
       "hobbies": ["Fietsen", "Sim Racing"],
       "team": {
@@ -105,7 +105,7 @@
         "name": "Toyota Gazoo Racing",
         "founded": 2012,
         "active": true,
-        "image": "https://example.com/images/toyota_gazoo.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/TGR.webp"
       }
     },
     {
