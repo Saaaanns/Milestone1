@@ -5,35 +5,35 @@
       "name": "Toyota Gazoo Racing",
       "founded": 2012,
       "active": true,
-      "image": "https://example.com/images/toyota_gazoo.jpg"
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/TGR.webp"
     },
     {
       "id": 202,
       "name": "Ferrari AF Corse",
       "founded": 2023,
       "active": true,
-      "image": "https://example.com/images/ferrari_af_corse.jpg"
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Ferrari%20AF%20Corse.webp"
     },
     {
       "id": 204,
       "name": "Porsche Penske Motorsport",
       "founded": 2023,
       "active": true,
-      "image": "https://example.com/images/porsche_penske.jpg"
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/PPM.webp"
     },
     {
       "id": 205,
       "name": "BMW M Team WRT",
       "founded": 2023,
       "active": true,
-      "image": "https://example.com/images/bmw_wrt.jpg"
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/BMW%20M%20WRT.webp"
     },
     {
       "id": 206,
       "name": "Peugeot TotalEnergies",
       "founded": 2022,
       "active": true,
-      "image": "https://example.com/images/peugeot_total.jpg"
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Peugeot%20TE.webp"
     }
 ]
 }
