@@ -7,7 +7,7 @@
       "age": 32,
       "active": true,
       "birthdate": "1991-05-08",
-      "image": "https://example.com/images/laurens_vanthoor.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Laurens%20Vanthoor.webp",
       "category": "Hypercar",
       "hobbies": ["Cycling", "Gaming"],
       "team": {
@@ -15,7 +15,7 @@
         "name": "Porsche Penske Motorsport",
         "founded": 2023,
         "active": true,
-        "image": "https://example.com/images/porsche_penske.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/PPM.webp"
       }
     },
     {
@@ -25,7 +25,7 @@
       "age": 35,
       "active": true,
       "birthdate": "1988-10-28",
-      "image": "https://example.com/images/kevin_estre.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Kevin%20Estre.webp",
       "category": "Hypercar",
       "hobbies": ["Sim Racing", "Wielrennen"],
       "team": {
@@ -33,7 +33,7 @@
         "name": "Porsche Penske Motorsport",
         "founded": 2023,
         "active": true,
-        "image": "https://example.com/images/porsche_penske.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/PPM.webp"
       }
     },
     {
