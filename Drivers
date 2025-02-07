@@ -43,7 +43,7 @@
       "age": 25,
       "active": true,
       "birthdate": "1998-04-20",
-      "image": "https://example.com/images/dries_vanthoor.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Dries%20Vanthoor.webp",
       "category": "Hypercar",
       "hobbies": ["Sim Racing", "Fitness"],
       "team": {
@@ -51,7 +51,7 @@
         "name": "BMW M Team WRT",
         "founded": 2023,
         "active": true,
-        "image": "https://example.com/images/bmw_wrt.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/BMW%20M%20WRT.webp"
       }
     },
     {
@@ -61,15 +61,15 @@
       "age": 29,
       "active": true,
       "birthdate": "1994-12-17",
-      "image": "https://example.com/images/raffaele_marciello.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Raffaele%20Marciello.webp",
       "category": "Hypercar",
       "hobbies": ["Karten", "Reizen"],
       "team": {
-        "id": 202,
-        "name": "Ferrari AF Corse",
+        "id": 205,
+        "name": "BMW M Team WRT",
         "founded": 2023,
         "active": true,
-        "image": "https://example.com/images/ferrari_af_corse.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/BMW%20M%20WRT.webp"
       }
     },
     {
