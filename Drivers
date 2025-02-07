@@ -151,7 +151,7 @@
       "age": 41,
       "active": true,
       "birthdate": "1982-06-12",
-      "image": "https://example.com/images/loic_duval.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Loic%20Duval.webp",
       "category": "Hypercar",
       "hobbies": ["Golf", "Sim Racing"],
       "team": {
@@ -159,7 +159,7 @@
         "name": "Peugeot TotalEnergies",
         "founded": 2022,
         "active": true,
-        "image": "https://example.com/images/peugeot_total.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Peugeot%20TE.webp"
       }
     },
     {
@@ -169,7 +169,7 @@
       "age": 31,
       "active": true,
       "birthdate": "1992-03-26",
-      "image": "https://example.com/images/stoffel_vandoorne.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Stoffel%20Vandoorne.webp",
       "category": "Hypercar",
       "hobbies": ["Fietsen", "Sim Racing"],
       "team": {
@@ -177,7 +177,7 @@
         "name": "Peugeot TotalEnergies",
         "founded": 2022,
         "active": true,
-        "image": "https://example.com/images/peugeot_total.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Peugeot%20TE.webp"
       }
     }
   ]
