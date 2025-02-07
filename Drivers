@@ -115,7 +115,7 @@
       "age": 27,
       "active": true,
       "birthdate": "1996-05-20",
-      "image": "https://example.com/images/antonio_fuoco.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Antonio%20Fuoco.webp",
       "category": "Hypercar",
       "hobbies": ["Koken", "Fietsen"],
       "team": {
@@ -123,7 +123,7 @@
         "name": "Ferrari AF Corse",
         "founded": 2023,
         "active": true,
-        "image": "https://example.com/images/ferrari_af_corse.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Ferrari%20AF%20Corse.webp"
       }
     },
     {
@@ -133,7 +133,7 @@
       "age": 27,
       "active": true,
       "birthdate": "1997-02-06",
-      "image": "https://example.com/images/nicklas_nielsen.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Nicklas%20Nielsen.webp",
       "category": "Hypercar",
       "hobbies": ["Karten", "Reizen"],
       "team": {
@@ -141,7 +141,7 @@
         "name": "Ferrari AF Corse",
         "founded": 2023,
         "active": true,
-        "image": "https://example.com/images/ferrari_af_corse.jpg"
+        "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Ferrari%20AF%20Corse.webp"
       }
     },
     {
