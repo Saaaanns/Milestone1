@@ -1,0 +1,20 @@
+export interface Team {
+  id: number;
+  name: string;
+  founded: number;
+  active: boolean;
+  image: string;
+}
+
+export interface Driver {
+  id: number;
+  name: string;
+  description: string;
+  age: number;
+  active: boolean;
+  birthdate: string;
+  image: string;
+  category: "Hypercar";
+  hobbies: string[];
+  team_id: number;
+}
