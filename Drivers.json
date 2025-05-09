@@ -7,7 +7,7 @@
       "age": 32,
       "active": true,
       "birthdate": "1991-05-08",
-      "image": "https://example.com/images/laurens_vanthoor.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Laurens%20Vanthoor.webp,
       "category": "Hypercar",
       "hobbies": ["Cycling", "Gaming"],
       "team_id": 204
@@ -19,7 +19,7 @@
       "age": 35,
       "active": true,
       "birthdate": "1988-10-28",
-      "image": "https://example.com/images/kevin_estre.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Kevin%20Estre.webp",
       "category": "Hypercar",
       "hobbies": ["Sim Racing", "Cycling"],
       "team_id": 204
@@ -31,7 +31,7 @@
       "age": 25,
       "active": true,
       "birthdate": "1998-04-20",
-      "image": "https://example.com/images/dries_vanthoor.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Dries%20Vanthoor.webp",
       "category": "Hypercar",
       "hobbies": ["Sim Racing", "Fitness"],
       "team_id": 205
@@ -43,7 +43,7 @@
       "age": 29,
       "active": true,
       "birthdate": "1994-12-17",
-      "image": "https://example.com/images/raffaele_marciello.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Raffaele%20Marciello.webp",
       "category": "Hypercar",
       "hobbies": ["Karting", "Traveling"],
       "team_id": 205
@@ -55,7 +55,7 @@
       "age": 37,
       "active": true,
       "birthdate": "1986-09-13",
-      "image": "https://example.com/images/kamui_kobayashi.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Kamui%20Kobayashi.webp",
       "category": "Hypercar",
       "hobbies": ["Karting", "Sim Racing"],
       "team_id": 201
@@ -67,7 +67,7 @@
       "age": 40,
       "active": true,
       "birthdate": "1983-08-19",
-      "image": "https://example.com/images/mike_conway.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Mike%20Conway.webp",
       "category": "Hypercar",
       "hobbies": ["Cycling", "Sim Racing"],
       "team_id": 201
@@ -79,7 +79,7 @@
       "age": 27,
       "active": true,
       "birthdate": "1996-05-20",
-      "image": "https://example.com/images/antonio_fuoco.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Antonio%20Fuoco.webp",
       "category": "Hypercar",
       "hobbies": ["Cooking", "Cycling"],
       "team_id": 202
@@ -91,7 +91,7 @@
       "age": 27,
       "active": true,
       "birthdate": "1997-02-06",
-      "image": "https://example.com/images/nicklas_nielsen.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Nicklas%20Nielsen.webp",
       "category": "Hypercar",
       "hobbies": ["Karting", "Traveling"],
       "team_id": 202
@@ -103,7 +103,7 @@
       "age": 41,
       "active": true,
       "birthdate": "1982-06-12",
-      "image": "https://example.com/images/loic_duval.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Loic%20Duval.webp",
       "category": "Hypercar",
       "hobbies": ["Golf", "Sim Racing"],
       "team_id": 206
@@ -115,7 +115,7 @@
       "age": 32,
       "active": true,
       "birthdate": "1992-03-26",
-      "image": "https://example.com/images/stoffel_vandoorne.jpg",
+      "image": "https://raw.githubusercontent.com/Saaaanns/Milestone1/refs/heads/main/Stoffel%20Vandoorne.webp",
       "category": "Hypercar",
       "hobbies": ["Cycling", "Sim Racing"],
       "team_id": 207
